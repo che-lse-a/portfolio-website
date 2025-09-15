@@ -18,4 +18,4 @@ A simple multipage portfolio website built with **HTML5, CSS3, and JavaScript** 
 ## Deployment
 Upload this project to GitHub Pages, Netlify, or Vercel for live hosting.
 
-Live Demo: (add your deployed link here)
+Live Demo: (https://che-lse-a.github.io/portfolio-website/)
